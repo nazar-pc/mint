@@ -1,5 +1,8 @@
 # Change Log
 
+## Unreleased
+- derive `Default` trait for vectors
+
 ## v0.5.5 (13-04-2020)
 - fixed the `Quaternion` memory layout
 
